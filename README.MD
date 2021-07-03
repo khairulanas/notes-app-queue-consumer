@@ -1,0 +1,1 @@
+npm install amqplib pg dotenv nodemailer
